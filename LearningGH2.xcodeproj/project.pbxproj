@@ -11,6 +11,7 @@
 		DA7F8FCB292C86E80031B204 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F8FCA292C86E80031B204 /* ContentView.swift */; };
 		DA7F8FCD292C86E80031B204 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA7F8FCC292C86E80031B204 /* Assets.xcassets */; };
 		DA7F8FD0292C86E80031B204 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA7F8FCF292C86E80031B204 /* Preview Assets.xcassets */; };
+		DA7F8FD7292C95060031B204 /* MyModelGH2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F8FD6292C95060031B204 /* MyModelGH2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DA7F8FCA292C86E80031B204 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA7F8FCC292C86E80031B204 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA7F8FCF292C86E80031B204 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA7F8FD6292C95060031B204 /* MyModelGH2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModelGH2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DA7F8FC8292C86E80031B204 /* LearningGH2App.swift */,
 				DA7F8FCA292C86E80031B204 /* ContentView.swift */,
+				DA7F8FD6292C95060031B204 /* MyModelGH2.swift */,
 				DA7F8FCC292C86E80031B204 /* Assets.xcassets */,
 				DA7F8FCE292C86E80031B204 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA7F8FD7292C95060031B204 /* MyModelGH2.swift in Sources */,
 				DA7F8FCB292C86E80031B204 /* ContentView.swift in Sources */,
 				DA7F8FC9292C86E80031B204 /* LearningGH2App.swift in Sources */,
 			);
